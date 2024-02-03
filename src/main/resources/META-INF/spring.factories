@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.example.blakespringbootstart.service.MyService,com.example.blakespringbootstart.controller.MyController
+
